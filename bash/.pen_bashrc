@@ -1,10 +1,10 @@
 # Цвета приглашения к вводу
-backgraund=""
-text_color="37"
-login_color="31"
-host_color="35"
-current_path_color="38;5;124"
-other_chars_color="33"
+background=""
+text_color="38;5;255"
+login_color="38;5;40"
+host_color="38;5;40"
+current_path_color="38;5;226"
+other_chars_color="38;5;251"
 
 function set_color(){
       local color_code="$1"
