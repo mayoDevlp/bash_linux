@@ -1,5 +1,5 @@
 # Цвета приглашения к вводу
-background=""
+background="#1D1D26"
 text_color="38;5;255"
 login_color="38;5;40"
 host_color="38;5;40"
@@ -18,4 +18,3 @@ $(set_color $other_chars_color):\
 $(set_color $current_path_color)\w\
 $(set_color $other_chars_color)$ \
 $(set_color $text_color)"
-#export PS1="\[\e[31m\]\u\[\e[33m\]@\[\e[35m\]\H: \[\e[38;5;124m\]\w\[\e[32m\]$ \[\e[37m\]"
